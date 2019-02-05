@@ -56,7 +56,7 @@ C:\Users\Username\Instagram>python instagram.py Sami09.1 pass.lst -m 1
 This mode uses 8 bots, or 128 passwords at a time.<br>
 Only use this mode when you have to, proxies are limited so save some **p**__****__ for the rest of us
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst -m 0
+C:\Users\Username\Instagram>python instagram.py Sami09.1 pass.lst -m 0
 ```
 
 ### If you don't specify a mode, then mode is set to 2
